@@ -1,2 +1,2 @@
 # Simple_Calculator
-I created a simple calculator using 
+I created a simple calculator using c.
